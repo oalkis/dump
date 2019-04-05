@@ -1,0 +1,386 @@
+[
+    {
+        "categoryId": 1,
+        "id": 1001,
+        "title": "Aeropostale Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/Aeropostale Dress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1002,
+        "title": "Feminen Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/FeminenDress.jpg"
+    },
+    {
+        "categoryId": 1,
+        "id": 1003,
+        "title": "Ipekyol Black Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/IpekyolBlackDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1004,
+        "title": "Koton Black Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/KotonBlackDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1005,
+        "title": "Koton Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/KotonDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1006,
+        "title": "Koton Green Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/KotonGreenDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1007,
+        "title": "Koton Red Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/KotonRedDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1008,
+        "title": "Quzu Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/QuzuDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1009,
+        "title": "Quzu Red Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/QuzuRedDress"
+    },
+    {
+        "categoryId": 1,
+        "id": 1010,
+        "title": "Selen Dress",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Dress/SelenDress"
+    },
+    {
+        "categoryId": 2,
+        "id": 2001,
+        "title": "Mavi Blue Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/MaviBlueJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2002,
+        "title": "Aeropostale Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/AeropostaleJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2003,
+        "title": "Agenda Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/AgendaJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2004,
+        "title": "Fabrika Black Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/FabrikaBlackJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2005,
+        "title": "Fabrika Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/FabrikaJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2006,
+        "title": "Koton Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/KotonJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2007,
+        "title": "Mavi Daisy Foggy Retro Str Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/MaviDaisyFoggyRetroStrJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2008,
+        "title": "Mavi Daphne Distressed Nolita Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/MaviDaphneDistressedNolitaJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2009,
+        "title": "T-Box Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/TBoxJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2010,
+        "title": "Only Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/OnlyJacket"
+    },
+    {
+        "categoryId": 2,
+        "id": 2011,
+        "title": "Vero Moda Classic Jacket",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jacket/VeroModaClassicJacket"
+    },
+    {
+        "categoryId": 3,
+        "id": 3001,
+        "title": "Aeropostale Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/AeropostaleDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3002,
+        "title": "Black Pepper Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/BlackPepperDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3003,
+        "title": "Fashion Friends Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/FashionFriendsDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3004,
+        "title": "Levis 712 Slim Indigo Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/Levis712SlimIndigoDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3005,
+        "title": "Levis 712 Slim İndigo Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/Levis712SlimIndigo2DenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3006,
+        "title": "Mavi Cındy Indigo Vintage Str Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952/",
+        "image": "Assets/Images/Product/Jean/MaviCindyIndigoVintageStrDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3007,
+        "title": "Mavi Denim Blue Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/MaviDenimBlueJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3008,
+        "title": "Mavi Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/MaviDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3009,
+        "title": "Network Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/NetworkDenimJean"
+    },
+    {
+        "categoryId": 3,
+        "id": 3010,
+        "title": "Only Denim Jean",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Jean/OnlyDenimJean"
+    },
+    {
+        "categoryId": 4,
+        "id": 4001,
+        "title": "Benetton Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/BenettonShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4002,
+        "title": "House Of Camellia Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/HouseOfCamelliaShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4003,
+        "title": "Levis Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/LevisShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4004,
+        "title": "Limon Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/LimonShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4005,
+        "title": "Network Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/NetworkShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4006,
+        "title": "North Of Navy Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/NorthOfNavyShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4007,
+        "title": "Quzu Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/QuzuShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4008,
+        "title": "Quzu White Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/QuzuWhiteShirt"
+    },
+    {
+        "categoryId": 4,
+        "id": 4009,
+        "title": "Twist Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Shirt/TwistShirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5001,
+        "title": "Beymen Studio Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/BeymenStudioSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5002,
+        "title": "Black Pepper Green Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/BlackPepperGreenSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5003,
+        "title": "Black Pepper Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/BlackPepperSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5004,
+        "title": "Cotton Bar Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/CottonBarSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5005,
+        "title": "Limon Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/LimonSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5006,
+        "title": "Network Blue Skrit",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/NetworkBlueSkrit"
+    },
+    {
+        "categoryId": 5,
+        "id": 5007,
+        "title": "Quzu Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/QuzuSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5008,
+        "title": "Random Mini Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/RandomMiniSkirt"
+    },
+    {
+        "categoryId": 5,
+        "id": 5009,
+        "title": "T-Box Skirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/Skirt/TBoxSkirt"
+    },{
+        "categoryId": 6,
+        "id": 6001,
+        "title": "Vero Moda T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/VeroModaTShirt"
+    },
+    {
+        "categoryId": 6,
+        "id": 6002,
+        "title": "T-Box T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/TBoxTShirt"
+    },
+    {
+        "categoryId": 6,
+        "id": 6003,
+        "title": "T-Box Purple T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/TBoxPurpleTShirt"
+    },
+    {
+        "categoryId": 6,
+        "id": 6004,
+        "title": "T-Box Gray T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/TBoxGrayTShirt"
+    },
+    {
+        "categoryId": 6,
+        "id": 6005,
+        "title": "Somedays Lovin T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/SomedaysLovinTShirt"
+    },
+    {
+        "categoryId": 6,
+        "id": 6006,
+        "title": "Black Pepper T-Shirt",
+        "url": "https://via.placeholder.com/600/92c952",
+        "image": "Assets/Images/Product/TShirt/BlackPepperTShirt"
+    },
+]
