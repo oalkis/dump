@@ -188,20 +188,6 @@
         "title": "Mavi Cındy Indigo Vintage Str Denim Jean",
         "url": "https://via.placeholder.com/600/92c952/",
         "image": "Assets/Images/Product/Jean/MaviCindyIndigoVintageStrDenimJean"
-    },
-    {
-        "categoryId": 3,
-        "id": 3007,
-        "title": "Mavi Denim Blue Jean",
-        "url": "https://via.placeholder.com/600/92c952",
-        "image": "Assets/Images/Product/Jean/MaviDenimBlueJean"
-    },
-    {
-        "categoryId": 3,
-        "id": 3008,
-        "title": "Mavi Denim Jean",
-        "url": "https://via.placeholder.com/600/92c952",
-        "image": "Assets/Images/Product/Jean/MaviDenimJean"
     }
 
 ]
