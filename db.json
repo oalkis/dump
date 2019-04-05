@@ -202,20 +202,6 @@
         "title": "Mavi Denim Jean",
         "url": "https://via.placeholder.com/600/92c952",
         "image": "Assets/Images/Product/Jean/MaviDenimJean"
-    },
-    {
-        "categoryId": 3,
-        "id": 3009,
-        "title": "Network Denim Jean",
-        "url": "https://via.placeholder.com/600/92c952",
-        "image": "Assets/Images/Product/Jean/NetworkDenimJean"
-    },
-    {
-        "categoryId": 3,
-        "id": 3010,
-        "title": "Only Denim Jean",
-        "url": "https://via.placeholder.com/600/92c952",
-        "image": "Assets/Images/Product/Jean/OnlyDenimJean"
     }
 
 ]
